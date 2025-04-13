@@ -1,0 +1,5 @@
+maxRecordsPerSecond: 1000
+TCP:
+  port: 9090
+  host: localhost
+  protocol: tcp
